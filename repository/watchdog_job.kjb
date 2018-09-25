@@ -331,8 +331,8 @@
       <specification_method>rep_name</specification_method>
       <job_object_id/>
       <filename/>
-      <jobname>&#x24;&#x7b;watchdog.job.dir&#x7d;</jobname>
-      <directory>&#x24;&#x7b;watchdog.job.name&#x7d;</directory>
+      <jobname>&#x24;&#x7b;watchdog.job.name&#x7d;</jobname>
+      <directory>&#x24;&#x7b;watchdog.job.dir&#x7d;</directory>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
       <exec_per_row>N</exec_per_row>
