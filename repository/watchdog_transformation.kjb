@@ -120,8 +120,8 @@
       <specification_method>rep_name</specification_method>
       <trans_object_id/>
       <filename/>
-      <transname>&#x24;&#x7b;watchdog.transformation.dir&#x7d;</transname>
-      <directory>&#x24;&#x7b;watchdog.transformation.name&#x7d;</directory>
+      <transname>&#x24;&#x7b;watchdog.transformation.name&#x7d;</transname>
+      <directory>&#x24;&#x7b;watchdog.transformation.dir&#x7d;</directory>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
       <exec_per_row>N</exec_per_row>
